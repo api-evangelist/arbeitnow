@@ -1,0 +1,20 @@
+{
+  "repo": "arbeitnow",
+  "feeds": [
+    {
+      "source": "https://www.arbeitnow.com/blog/feed/atom",
+      "feed_url": "https://www.arbeitnow.com/blog/feed/atom",
+      "saved": 0,
+      "error": "no_feed_no_posts"
+    },
+    {
+      "source": "https://github.com/public-apis/public-apis",
+      "feed_url": "https://github.com/public-apis/public-apis",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 25
+}
