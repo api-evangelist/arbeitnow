@@ -3,9 +3,7 @@
   "feeds": [
     {
       "source": "https://www.arbeitnow.com/blog/feed/atom",
-      "feed_url": "https://www.arbeitnow.com/blog/feed/atom",
-      "saved": 0,
-      "error": "no_feed_no_posts"
+      "error": "HTTPError"
     },
     {
       "source": "https://github.com/public-apis/public-apis",
@@ -15,6 +13,6 @@
       "method": "none"
     }
   ],
-  "fetched": "2026-08-22T20:20:02Z",
+  "fetched": "2026-08-30T22:33:40Z",
   "post_count": 25
 }
