@@ -56,7 +56,7 @@ common:
   - type: DomainSecurity
     url: security/arbeitnow-domain-security.yml
   - type: Website
-    url: https://documenter.getpostman.com/view/18545278/UVJbJdKh
+    url: https://www.arbeitnow.com
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
   - type: Blog
